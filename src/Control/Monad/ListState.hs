@@ -1,6 +1,6 @@
 
 {-# LANGUAGE FlexibleInstances, MultiParamTypeClasses #-}
-module ListState where
+module Control.Monad.ListState where
 
 import Control.Monad.State
 
